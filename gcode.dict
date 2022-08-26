@@ -1,0 +1,46 @@
+# bases on NIST RS274 NGC standard
+
+# command words
+"G"
+"M"
+
+# numbers
+"+"
+"-"
+"."
+"0"
+"1"
+"2"
+"3"
+"4"
+"5"
+"6"
+"7"
+"8"
+"9"
+
+# parameter words
+"A"
+"B"
+"C"
+"D"
+"F"
+"H"
+"I"
+"J"
+"K"
+"L"
+"N"
+"P"
+"Q"
+"R"
+"S"
+"T"
+"X"
+"Y"
+"Z"
+
+# comment starting characters
+"("
+")"
+";"
